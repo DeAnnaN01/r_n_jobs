@@ -9,7 +9,7 @@ import location from "../assets/icons/location.png";
 import chevronLeft from '../assets/icons/chevron-left.png';
 import chevronRight from '../assets/icons/chevron-right.png';
 
-export default {
+const icons = {
     heart,
     menu,
     search,
@@ -21,3 +21,5 @@ export default {
     chevronLeft,
     chevronRight
 };
+
+export default icons;
